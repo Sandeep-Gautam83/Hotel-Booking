@@ -1,3 +1,13 @@
+🧰 Tech Stack
+Backend: Spring Boot, Spring Security, Java Mail Sender, MySQL
+
+Frontend: React, Tailwind CSS, Axios, CryptoJS
+
+Payments: Stripe
+
+Security: JWT, Role-Based Access, Data Encryption
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
